@@ -6,7 +6,7 @@ O aplicație simplă de notare a sarcinilor cu o interfață grafică.
 
 1. Asigurați-vă că aveți Python instalat pe calculator. Puteți descărca Python de la [python.org](https://www.python.org/downloads/).
 
-2. Clonați sau descărcați acest repository pe calculator. Puteți face acest lucru utilizând butonul "Code" verde de pe GitHub sau folosind comanda: git clone <URL-ul-repository-ului>
+2. Clonați sau descărcați acest repository pe calculator. Puteți face acest lucru utilizând butonul "Code" verde de pe GitHub sau folosind comanda: git clone <[URL-ul-repository-ului](https://github.com/tuguirazvan/todo_app)>
  
 3. Deschideți un terminal în directorul proiectului.
 
