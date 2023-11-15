@@ -1,3 +1,6 @@
+![image](https://github.com/tuguirazvan/todo_app/assets/8666554/a432403d-1008-4aa6-84a1-9dccf53dff67)
+
+
 # To-Do List App
 
 O aplicație simplă de notare a sarcinilor cu o interfață grafică.
@@ -23,11 +26,3 @@ O aplicație simplă de notare a sarcinilor cu o interfață grafică.
 2. Pentru a șterge o sarcină, selectați-o în lista de sarcini și apăsați butonul "Șterge".
 
 3. Explorați funcționalitățile aplicației și experimentați cu notarea sarcinilor.
-
-## Capturi de ecran:
-
-- [Captura de ecran 1](![image](https://github.com/tuguirazvan/todo_app/assets/8666554/5f405f68-7b16-4f28-aad7-c241f87eb64f)
-): Interfața principală a aplicației.
-- [Captura de ecran 2](![image](https://github.com/tuguirazvan/todo_app/assets/8666554/76b88ad3-1f52-4026-9b91-f1169aab5e68)
-): Exemplu de adăugare a unei sarcini.
-
