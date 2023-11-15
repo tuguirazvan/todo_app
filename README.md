@@ -28,6 +28,6 @@ O aplicație simplă de notare a sarcinilor cu o interfață grafică.
 
 - [Captura de ecran 1](![image](https://github.com/tuguirazvan/todo_app/assets/8666554/5f405f68-7b16-4f28-aad7-c241f87eb64f)
 ): Interfața principală a aplicației.
-- [Captura de ecran 2](![image](https://github.com/tuguirazvan/todo_app/assets/8666554/d8cf6023-4d1e-4a59-9fb6-f2c528743030)
+- [Captura de ecran 2](![image](https://github.com/tuguirazvan/todo_app/assets/8666554/76b88ad3-1f52-4026-9b91-f1169aab5e68)
 ): Exemplu de adăugare a unei sarcini.
 
