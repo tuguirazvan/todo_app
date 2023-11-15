@@ -1,4 +1,4 @@
-# To-Do List App
+![image](https://github.com/tuguirazvan/todo_app/assets/8666554/cf1242b1-e77a-4821-93ed-684d22468cf0)# To-Do List App
 
 O aplicație simplă de notare a sarcinilor cu o interfață grafică.
 
@@ -26,6 +26,8 @@ O aplicație simplă de notare a sarcinilor cu o interfață grafică.
 
 ## Capturi de ecran:
 
-- [Captura de ecran 1](screenshot1.png): Interfața principală a aplicației.
-- [Captura de ecran 2](screenshot2.png): Exemplu de adăugare a unei sarcini.
+- [Captura de ecran 1](![image](https://github.com/tuguirazvan/todo_app/assets/8666554/5f405f68-7b16-4f28-aad7-c241f87eb64f)
+): Interfața principală a aplicației.
+- [Captura de ecran 2](![image](https://github.com/tuguirazvan/todo_app/assets/8666554/d8cf6023-4d1e-4a59-9fb6-f2c528743030)
+): Exemplu de adăugare a unei sarcini.
 
