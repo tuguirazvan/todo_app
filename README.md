@@ -1,4 +1,4 @@
-![image](https://github.com/tuguirazvan/todo_app/assets/8666554/cf1242b1-e77a-4821-93ed-684d22468cf0)# To-Do List App
+# To-Do List App
 
 O aplicație simplă de notare a sarcinilor cu o interfață grafică.
 
