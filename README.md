@@ -1,4 +1,4 @@
-![image](https://github.com/tuguirazvan/todo_app/assets/8666554/a432403d-1008-4aa6-84a1-9dccf53dff67)
+![image](https://github.com/tuguirazvan/todo_app/assets/8666554/9bc91a74-349b-42b5-944f-ef88727ebaa8)
 
 
 # To-Do List App
