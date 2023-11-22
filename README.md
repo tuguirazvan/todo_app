@@ -1,14 +1,21 @@
 ![image](https://github.com/tuguirazvan/todo_app/assets/8666554/9bc91a74-349b-42b5-944f-ef88727ebaa8)
 
 
-# To-Do List App
+# Descriere Aplicație
 
 Această aplicație To-Do List a fost construită în Python folosind biblioteca Tkinter pentru a oferi o interfață grafică prietenoasă și intuitivă. Scopul acestei aplicații este să ajute utilizatorii să-și organizeze sarcinile zilnice într-un mod simplu și eficient.
 
-# Tehnologii Folosite
-**Python:** Limbajul de programare principal al aplicației, oferind flexibilitate și ușurință în dezvoltare.
-**Tkinter:** Biblioteca grafică pentru crearea interfețelor utilizator în aplicații Python.
+## Tehnologii Folosite
+- **1. Python:** Limbajul de programare principal al aplicației, oferind flexibilitate și ușurință în dezvoltare.
+- **2. Tkinter:** Biblioteca grafică pentru crearea interfețelor utilizator în aplicații Python.
 
+## Caracteristici:
+
+- **Interfață Utilizator Prietenoasă:** Interfața grafică intuitivă și ușor de utilizat face gestionarea sarcinilor o experiență plăcută.
+  
+- **Adăugare și Ștergere Sarcini:** Adaugă sarcini noi cu ușurință prin intermediul casetei de text și șterge-le când sunt completate.
+
+- **Listă de Sarcini:** Vizualizează toate sarcinile tale într-o listă ordonată pentru o urmărire rapidă și eficientă.
 ## Instrucțiuni de instalare:
 
 1. Asigurați-vă că aveți Python instalat pe calculator. Puteți descărca Python de la [python.org](https://www.python.org/downloads/).
