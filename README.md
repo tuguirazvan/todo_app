@@ -3,7 +3,11 @@
 
 # To-Do List App
 
-O aplicație simplă de notare a sarcinilor cu o interfață grafică.
+Această aplicație To-Do List a fost construită în Python folosind biblioteca Tkinter pentru a oferi o interfață grafică prietenoasă și intuitivă. Scopul acestei aplicații este să ajute utilizatorii să-și organizeze sarcinile zilnice într-un mod simplu și eficient.
+
+# Tehnologii Folosite
+**Python:** Limbajul de programare principal al aplicației, oferind flexibilitate și ușurință în dezvoltare.
+**Tkinter:** Biblioteca grafică pentru crearea interfețelor utilizator în aplicații Python.
 
 ## Instrucțiuni de instalare:
 
